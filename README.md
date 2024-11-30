@@ -59,6 +59,7 @@ I'm a passionate developer who loves coding, open-source, and sharing knowledge.
 
 Here are a few projects I've worked on recently:
 
+//demo
 1. [Rent App](https://rentify-presidio-iota.vercel.app/): Rentify is here to simplify the process of finding rental properties for tenants and connecting landlords with the right tenants.
 2. [Lawyers Portfolio UI](https://lawyers-portfolio-ui.vercel.app/): Lawyers Portfolio UI
 3. [Touch Typing Game](https://touch-typing-shakti1590.vercel.app/): Build a web-based application for touch typing.
