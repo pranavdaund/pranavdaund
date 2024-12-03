@@ -66,6 +66,7 @@ Here are a few projects I've worked on recently:
 ## 📫 Get in Touch
 
 - LinkedIn: [LinkedIn Profile](https://linkedin.com/in/pranavduand)
+- Indeed: [](https://profile.indeed.com/?hl=en_IN&co=IN&from=gnav-homepage)
 - Personal Website: [Portfolio](https://pranav-daund-portfolio.vercel.app/)
 
 ## 🌟🌟🌟🌟🌟🌟
