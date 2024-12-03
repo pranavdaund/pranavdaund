@@ -69,6 +69,6 @@ Here are a few projects I've worked on recently:
 - Indeed: [Profile](https://profile.indeed.com/?hl=en_IN&co=IN&from=gnav-homepage)
 - Personal Website: [Portfolio](https://pranav-daund-portfolio.vercel.app/)
 
-## 🌟🌟🌟🌟🌟🌟
+## 🌟🌟🌟🌟🌟
 
 Thank you for visiting my profile! Have a great day! 😊
