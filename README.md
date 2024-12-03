@@ -60,9 +60,9 @@ I'm a passionate developer who loves coding, open-source, and sharing knowledge.
 Here are a few projects I've worked on recently:
 
 //demo
-1. [Rent App](https://rentify-presidio-iota.vercel.app/): Rentify is here to simplify the process of finding rental properties for tenants and connecting landlords with the right tenants.
-2. [Lawyers Portfolio UI](https://lawyers-portfolio-ui.vercel.app/): Lawyers Portfolio UI
-3. [Touch Typing Game](https://touch-typing-shakti1590.vercel.app/): Build a web-based application for touch typing.
+1. [Personal Portfolio](https://pranav-daund-portfolio.vercel.app/): A responsive personal portfolio website to showcase skills, projects, and professional journey with smooth navigation and a modern UI.
+2. [Weather Application](https://weather-application-inky.vercel.app/): A dynamic web-based application that fetches and displays real-time weather information. Users can input city names to view temperature, humidity, wind speed, and weather conditions.
+3. [Rock Paper Scissors Game](https://rock-paper-scissors-opal-one.vercel.app/): An interactive web-based game where users compete against the computer in the classic "Rock, Paper, Scissors" format.
 
 ## 📫 Get in Touch
 
