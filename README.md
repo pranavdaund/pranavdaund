@@ -22,7 +22,7 @@ I'm a passionate developer who loves coding, open-source, and sharing knowledge.
 - 🌱 I’m currently learning: Node.js & Express JS & Advanced React JS
 - 👯 I’m looking to collaborate on: Freelancing Projects
 - 💬 Ask me about: React JS, Java, OOPS, DSA.
-- 📫 How to reach me: [pranavdaund72@gmail.com](mailto:pranavdaund72@gmail.com)
+- 📫 How to reach me: [pranavdaund07@gmail.com](mailto:pranavdaund07@gmail.com)
 <!-- - ⚡ Fun fact: I've visited over 10 states and plan to visit every country & continent. -->
 
 ## 🛠️ Technologies & Tools
