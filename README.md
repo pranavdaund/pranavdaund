@@ -42,11 +42,11 @@ I'm a passionate developer who loves coding, open-source, and sharing knowledge.
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 
 [![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranavdaund&show_icons=true&theme=radical)](https://github.com/pranavdaund)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavdaund&layout=compact&theme=radical)](https://github.com/pranavdaund)
-
+-->
 ## 📈 Total Contributions
 
 [![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=pranavdaund&theme=radical)](https://github.com/pranavdaund)
