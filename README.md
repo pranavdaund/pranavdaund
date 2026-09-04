@@ -127,14 +127,14 @@ A full-stack property marketplace connecting **clients, owners, and administrato
 
 ## 🎓 Education
 
-<h4>Post Graduate Diploma in Advanced Computing (PGCP-AC)</h4> <br>
-Centre for Development of Advanced Computing (CDAC), Pune — Aug 2026
+<h3>Post Graduate Diploma in Advanced Computing (PGCP-AC)</h3>
+<p>Centre for Development of Advanced Computing (CDAC), Pune</p> — <h4> Aug 2026</h4>
 
-<h4>B.Tech. Electronics and Telecommunication Engineering</h4> <br>
-Rajarshi Shahu College of Engineering, Pune — Jun 2024
+<h3>B.Tech. Electronics and Telecommunication Engineering</h3>
+<p>Rajarshi Shahu College of Engineering, Pune</p> — <h4>Jun 2024</h4>
 
-<h4>Higher Secondary Certificate – Science</h4> <br>
-Pravara Medical Trust Arts, Commerce and Science College, Shevgaon — May 2020
+<h3>Higher Secondary Certificate – Science</h3>
+<p>Pravara Medical Trust Arts, Commerce and Science College, Shevgaon</p> — <h4>May 2020</h4>
 
 ---
 <!---
