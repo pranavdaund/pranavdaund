@@ -1,74 +1,190 @@
-<!--- 👋 Hi, I’m @pranavdaund
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-pranavdaund/pranavdaund is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 # Hi there, I'm Pranav! 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/pranavdaund?label=Follow&style=social)](https://github.com/pranavdaund)
-[![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-Follow-blue?style=social&logo=linkedin)](https://linkedin.com/in/pranavdaund)
+<p align="left">
+  <a href="https://github.com/pranavdaund">
+    <img src="https://img.shields.io/github/followers/pranavdaund?label=Follow&style=social" alt="GitHub Followers"/>
+  </a>
+  <a href="https://linkedin.com/in/pranavdaund">
+    <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=social&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
 
 ## 👨‍💻 About Me
 
-I'm a passionate developer who loves coding, open-source, and sharing knowledge. I'm proficient in multiple programming languages and frameworks and enjoy working on challenging projects that push my limits.
+I'm a **Software Engineer** passionate about building secure, scalable, and user-friendly full-stack applications.
 
-- 🔭 I’m currently working on: React JS
-- 🌱 I’m currently learning: Node.js & Express JS & Advanced React JS
-- 👯 I’m looking to collaborate on: Freelancing Projects
-- 💬 Ask me about: React JS, Java, OOPS, DSA.
-- 📫 How to reach me: [pranavdaund99@gmail.com](mailto:pranavdaund99@gmail.com)
-<!-- - ⚡ Fun fact: I've visited over 10 states and plan to visit every country & continent. -->
+I specialize in **Java, Spring Boot, Spring Security, Hibernate/JPA, REST APIs, React.js, and MySQL**, with strong fundamentals in **OOP, Data Structures & Algorithms, and Problem Solving**.
+
+* 🔭 Currently focusing on **Java Full Stack Development**
+* 🌱 Currently learning and improving **Spring Boot, Spring Security, Microservices, and React.js**
+* 💻 Interested in **Backend & Full Stack Software Engineering**
+* 🧩 Strong in **OOP, DSA, and Problem Solving**
+* 🚀 Built production-style applications using **Java, Spring Boot, React.js, MySQL, JWT, Docker, and Razorpay**
+* 💬 Ask me about **Java, Spring Boot, Spring Security, REST APIs, React.js, MySQL, OOP & DSA**
+* 📫 Reach me at **[pranavdaund99@gmail.com](mailto:pranavdaund99@gmail.com)**
+
+---
 
 ## 🛠️ Technologies & Tools
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=white)
-![OOP](https://img.shields.io/badge/-OOP-333333?style=flat&logo=java&logoColor=white)
-![DSA](https://img.shields.io/badge/-DSA-333333?style=flat&logo=google)
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+### 💻 Programming Languages
 
-<!--## 📊 GitHub Stats
+![Java](https://img.shields.io/badge/Java-333333?style=flat\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat\&logo=javascript\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-333333?style=flat\&logo=cplusplus\&logoColor=white)
 
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranavdaund&show_icons=true&theme=radical)](https://github.com/pranavdaund)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavdaund&layout=compact&theme=radical)](https://github.com/pranavdaund)
--->
-## 📈 Total Contributions
+### 🎨 Frontend
 
-[![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=pranavdaund&theme=radical)](https://github.com/pranavdaund)
+![React.js](https://img.shields.io/badge/React.js-333333?style=flat\&logo=react\&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-333333?style=flat\&logo=html5\&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-333333?style=flat\&logo=css3\&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?style=flat\&logo=bootstrap\&logoColor=7952B3)
+
+### ⚙️ Backend
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-333333?style=flat\&logo=springboot\&logoColor=6DB33F)
+![Spring MVC](https://img.shields.io/badge/Spring%20MVC-333333?style=flat\&logo=spring\&logoColor=6DB33F)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-333333?style=flat\&logo=springsecurity\&logoColor=6DB33F)
+![Hibernate](https://img.shields.io/badge/Hibernate-333333?style=flat\&logo=hibernate\&logoColor=59666C)
+![REST API](https://img.shields.io/badge/REST%20APIs-333333?style=flat)
+
+### 🗄️ Database
+
+![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat\&logo=mysql\&logoColor=4479A1)
+![Hibernate JPA](https://img.shields.io/badge/JPA-333333?style=flat\&logo=hibernate\&logoColor=59666C)
+
+### 🔐 Security & Integration
+
+![JWT](https://img.shields.io/badge/JWT-333333?style=flat\&logo=jsonwebtokens\&logoColor=white)
+![BCrypt](https://img.shields.io/badge/BCrypt-333333?style=flat)
+![Razorpay](https://img.shields.io/badge/Razorpay-333333?style=flat)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-333333?style=flat\&logo=cloudinary\&logoColor=white)
+
+### 🧰 Tools
+
+![Git](https://img.shields.io/badge/Git-333333?style=flat\&logo=git\&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat\&logo=github\&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-333333?style=flat\&logo=apachemaven\&logoColor=C71A36)
+![Docker](https://img.shields.io/badge/Docker-333333?style=flat\&logo=docker\&logoColor=2496ED)
+![Postman](https://img.shields.io/badge/Postman-333333?style=flat\&logo=postman\&logoColor=FF6C37)
+![VS Code](https://img.shields.io/badge/VS%20Code-333333?style=flat\&logo=visualstudiocode\&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/Eclipse-333333?style=flat\&logo=eclipseide\&logoColor=2C2255)
+
+---
+
+## 🚀 Featured Projects
+
+### 🏥 HEAL-BIT
+
+**Java • Spring Boot • React • MySQL • Spring Security • JWT • Hibernate/JPA • Razorpay • Docker**
+
+A full-stack healthcare platform designed to manage workflows for **patients, doctors, hospitals, and administrators**.
+
+* 👥 Unified workflows for **4 user roles**
+* 📅 Implemented **30-minute appointment scheduling** with doctor availability and break management
+* 🛡️ Prevented **100% of double-booking conflicts**
+* 💳 Integrated **Razorpay payments** and cash-at-clinic checkout
+* 📧 Automated appointment-status emails across **6 booking events**
+* ⚡ Reduced manual patient follow-up by an estimated **80%**
+* 🔐 Implemented JWT, BCrypt, Google reCAPTCHA, and Cloudinary-based secure document management
+
+🔗 **Repository:** [HEAL-BIT](https://github.com/pranavdaund)
+
+---
+
+### 🏠 RESIDENTIA
+
+**Java • Spring Boot • React.js • MySQL • Spring Security • JWT • Razorpay • Cloudinary**
+
+A full-stack property marketplace connecting **clients, owners, and administrators**.
+
+* 👥 Built workflows for **3 user roles**
+* 🔐 Implemented JWT authentication, BCrypt hashing, and role-based Spring Security
+* 🔎 Developed property search, filtering, availability checks, and booking workflows
+* 📉 Reduced manual booking coordination by an estimated **60%**
+* 💳 Integrated Razorpay payment verification and transaction tracking
+* ⚡ Reduced payment-status reconciliation time by an estimated **70%**
+* ☁️ Integrated Cloudinary for property-image management
+
+🔗 **Repository:** [RESIDENTIA](https://github.com/pranavdaund)
+
+---
+
+## 🎯 Core Strengths
+
+* ☕ **Core Java**
+* 🌱 **Spring Boot & Spring MVC**
+* 🔐 **Spring Security & JWT**
+* 🗃️ **Hibernate/JPA & MySQL**
+* 🌐 **REST API Development**
+* ⚛️ **React.js**
+* 🧠 **OOP & Data Structures**
+* 🧩 **Problem Solving**
+* 🐳 **Docker**
+* 🔧 **Git & GitHub**
+
+---
+
+## 🎓 Education
+
+**Post Graduate Diploma in Advanced Computing (PGCP-AC)**
+Centre for Development of Advanced Computing (CDAC), Pune — **Aug 2026**
+
+**B.Tech. Electronics and Telecommunication Engineering**
+Rajarshi Shahu College of Engineering, Pune — **Jun 2024**
+
+**Higher Secondary Certificate – Science**
+Pravara Medical Trust Arts, Commerce and Science College, Shevgaon — **May 2020**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pranavdaund&show_icons=true&theme=radical" alt="Pranav's GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavdaund&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavdaund&theme=radical" alt="GitHub Streak"/>
+</p>
+
+---
 
 ## 👁️ Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=pranavdaund&color=brightgreen)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pranavdaund&color=brightgreen" alt="Profile Views"/>
+</p>
 
-## 🚀 Top Projects
+---
 
-Here are a few projects I've worked on recently:
+## 📫 Let's Connect
 
-1. [Personal Portfolio](https://pranav-daund-portfolio.vercel.app/) : A responsive personal portfolio website to showcase skills, projects, and professional journey with smooth navigation and a modern UI.
-2. [Weather Application](https://weather-application-inky.vercel.app/) : A dynamic web-based application that fetches and displays real-time weather information. Users can input city names to view temperature, humidity, wind speed, and weather conditions.
-3. [Rock Paper Scissors Game](https://rock-paper-scissors-opal-one.vercel.app/) : An interactive web-based game where users compete against the computer in the classic "Rock, Paper, Scissors" format.
+<p align="left">
+  <a href="mailto:pranavdaund99@gmail.com">
+    <img src="https://img.shields.io/badge/Email-pranavdaund99%40gmail.com-red?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/pranavdaund">
+    <img src="https://img.shields.io/badge/LinkedIn-Pranav%20Daund-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/pranavdaund">
+    <img src="https://img.shields.io/badge/GitHub-pranavdaund-black?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-## 📫 Get in Touch
+---
 
-- LinkedIn: [LinkedIn Profile](https://linkedin.com/in/pranavduand)
-- Indeed: [Profile](https://profile.indeed.com/?hl=en_IN&co=IN&from=gnav-homepage)
-- Personal Website: [Portfolio](https://pranav-daund-portfolio.vercel.app/)
+## ⭐ Thanks for Visiting!
 
-## 🌟🌟🌟🌟🌟
+Thanks for visiting my GitHub profile!
+I'm always interested in **learning, building, and solving real-world problems with technology.**
 
-Thank you for visiting my profile! Have a great day! 😊
+**Happy Coding! 🚀**
