@@ -126,111 +126,25 @@ A full-stack property marketplace connecting **clients, owners, and administrato
 ---
 
 ## 🎓 Education
-        <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Education</title>
+<h3>Post Graduate Diploma in Advanced Computing (PGCP-AC)</h3>
+<p>
+  <em>Centre for Development of Advanced Computing (CDAC), Pune</em>
+  <span style="float:right;">Aug 2026</span>
+</p>
 
-    <style>
-        body {
-            font-family: Georgia, "Times New Roman", serif;
-            margin: 30px;
-            color: #111;
-        }
+<h3>B.Tech. Electronics and Telecommunication Engineering</h3>
+<p>
+  <em>Rajarshi Shahu College of Engineering, Pune</em>
+  <span style="float:right;">Jun 2024</span>
+</p>
 
-        .education h2 {
-            font-size: 24px;
-            margin: 0 0 8px 0;
-            padding-bottom: 3px;
-            border-bottom: 1px solid #000;
-        }
+<h3>Higher Secondary Certificate (Science)</h3>
+<p>
+  <em>Pravara Medical Trust Arts, Commerce and Science College, Shevgaon</em>
+  <span style="float:right;">May 2020</span>
+</p>
 
-        .education-item {
-            margin-bottom: 12px;
-        }
-
-        .education-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: baseline;
-        }
-
-        .degree {
-            font-size: 19px;
-            font-weight: bold;
-            margin: 0;
-        }
-
-        .date {
-            font-size: 17px;
-            font-weight: bold;
-            white-space: nowrap;
-        }
-
-        .college {
-            font-size: 17px;
-            font-style: italic;
-            margin: 2px 0 0 0;
-        }
-    </style>
-</head>
-
-<body>
-
-    <section class="education">
-
-        <h2>Education</h2>
-
-        <!-- PG Diploma -->
-        <div class="education-item">
-            <div class="education-header">
-                <p class="degree">
-                    Post Graduate Diploma in Advanced Computing (PGCP-AC)
-                </p>
-                <p class="date">Aug 2026</p>
-            </div>
-
-            <p class="college">
-                Centre for Development of Advanced Computing (CDAC), Pune
-            </p>
-        </div>
-
-        <!-- B.Tech -->
-        <div class="education-item">
-            <div class="education-header">
-                <p class="degree">
-                    B.Tech. Electronics and Telecommunication Engineering
-                </p>
-                <p class="date">Jun 2024</p>
-            </div>
-
-            <p class="college">
-                Rajarshi Shahu College of Engineering, Pune
-            </p>
-        </div>
-
-        <!-- HSC -->
-        <div class="education-item">
-            <div class="education-header">
-                <p class="degree">
-                    Higher Secondary Certificate – Science
-                </p>
-                <p class="date">May 2020</p>
-            </div>
-
-            <p class="college">
-                Pravara Medical Trust Arts, Commerce and Science College,
-                Shevgaon
-            </p>
-        </div>
-
-    </section>
-
-</body>
-</html>
 <!---
 ## 📊 GitHub Stats
 
