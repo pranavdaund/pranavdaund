@@ -127,17 +127,17 @@ A full-stack property marketplace connecting **clients, owners, and administrato
 
 ## 🎓 Education
 
-**Post Graduate Diploma in Advanced Computing (PGCP-AC)**
-Centre for Development of Advanced Computing (CDAC), Pune — **Aug 2026**
+<h4>Post Graduate Diploma in Advanced Computing (PGCP-AC)</h4> <br>
+Centre for Development of Advanced Computing (CDAC), Pune — Aug 2026
 
-**B.Tech. Electronics and Telecommunication Engineering**
-Rajarshi Shahu College of Engineering, Pune — **Jun 2024**
+<h4>B.Tech. Electronics and Telecommunication Engineering</h4> <br>
+Rajarshi Shahu College of Engineering, Pune — Jun 2024
 
-**Higher Secondary Certificate – Science**
-Pravara Medical Trust Arts, Commerce and Science College, Shevgaon — **May 2020**
+<h4>Higher Secondary Certificate – Science</h4> <br>
+Pravara Medical Trust Arts, Commerce and Science College, Shevgaon — May 2020
 
 ---
-
+<!---
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -147,6 +147,8 @@ Pravara Medical Trust Arts, Commerce and Science College, Shevgaon — **May 202
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavdaund&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
+
+--->
 
 ---
 
